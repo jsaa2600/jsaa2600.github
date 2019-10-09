@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: 웹 디자인
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 기업 홈페이지 디자인 / 펜션 솔루션 웹·앱 디자인
 
 ---
