@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 팀 프로젝트
+subtitle: KH정보교육원에서 진행한 팀 프로젝트
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-09-27
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: <i class="fa fa-circle fa-stack-2x text-primary"></i>
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
