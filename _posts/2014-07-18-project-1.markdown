@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2019-09-27
 img: 
-thumbnail: 
+thumbnail: fa-coffee
 alt: image-alt
 project-date: April 2014
 client: JAVA / 웹표준(HTML, CSS, JavaScript), Bootstrap
