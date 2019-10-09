@@ -1,15 +1,15 @@
 ---
-title: FLA.WE
-# subtitle: Website Design
+title: 웹 개발
+subtitle: JAVA 웹 개발 포트폴리오입니다.
 layout: default
 modal-id: 1
 date: 2019-09-27
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: 
+thumbnail: 
 alt: image-alt
 project-date: April 2014
-client: HTML, CSS, JavaScript, Bootstrap / JAVA
+client: JAVA / 웹표준(HTML, CSS, JavaScript), Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: FLA.WE라는 가상의 플라워 쇼핑몰 사이트를 작업했습니다. 메인 페이지, 문의 게시판 등을 구현해놓았습니다.
 
 ---
