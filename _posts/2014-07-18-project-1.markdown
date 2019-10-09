@@ -1,5 +1,5 @@
 ---
-title: 테스트
+title: FLA.WE
 # subtitle: Website Design
 layout: default
 modal-id: 1
