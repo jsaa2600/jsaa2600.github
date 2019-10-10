@@ -234,6 +234,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.custom_title{
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
