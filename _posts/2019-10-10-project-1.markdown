@@ -1,5 +1,5 @@
 ---
-title: 기업 홈페이지 / 웹·앱 펜션 솔루션 / 채팅 앱
+title: 기업 홈페이지 / 펜션 솔루션 / 채팅 앱
 subtitle: Website Design
 layout: default
 modal-id: 1
