@@ -2,7 +2,7 @@
 title: JAVA 웹 개발
 subtitle: JAVA 웹 개발 포트폴리오입니다.
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2019-09-27
 img: dreams.png
 thumbnail: java_thumbnail.png
