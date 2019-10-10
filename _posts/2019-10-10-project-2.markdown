@@ -1,6 +1,6 @@
 ---
 title: 팀 프로젝트
-subtitle: 팀 프로젝트 작업물입니다.
+subtitle: Team Project
 layout: default
 modal-id: 2
 date: 2019-10-10
