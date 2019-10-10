@@ -4,8 +4,8 @@ subtitle: JAVA 웹 개발 포트폴리오입니다.
 layout: default
 modal-id: 1
 date: 2019-09-27
-img: 
-thumbnail: dreams-thumbnail.png
+img: dreams.png
+thumbnail: java_thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: JAVA / 웹표준(HTML, CSS, JavaScript), Bootstrap
