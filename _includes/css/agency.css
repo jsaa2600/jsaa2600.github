@@ -236,6 +236,7 @@ fieldset[disabled] .btn-xl.active {
 
 .custom_title{
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }};
 }
 
 @media(min-width:768px) {
