@@ -3,7 +3,7 @@ title: 웹 디자인
 subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2019-09-27
 img: 모바일펜션1.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
