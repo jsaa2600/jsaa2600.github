@@ -1,6 +1,6 @@
 ---
-title: JAVA 웹 개발
-subtitle: JAVA Web Programing
+title: 웹 디자인
+subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2019-10-10
