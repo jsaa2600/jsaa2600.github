@@ -8,8 +8,9 @@ img: escape.png
 thumbnail: teamProject_thumbnail.png
 alt: image-alt
 project-date: 2019/09/27
-client: Start Bootstrap
-category: Web Development
+technology: Start Bootstrap
+demo: Web Development
+code: 깃허브 링크
 description: 영화 리뷰 사이트를 주제로 한 팀 프로젝트 작업물입니다. 디자인 및 프론트엔드 부분을 맡았습니다.
 
 ---
