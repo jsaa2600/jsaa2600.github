@@ -1,13 +1,13 @@
 ---
 title: JAVA 웹 개발
-subtitle: Website Design
+subtitle: JAVA Web Programing
 layout: default
-modal-id: 3
-date: 2019-09-27
+modal-id: 1
+date: 2019-10-10
 img: 모바일펜션1.png
 thumbnail: webDesign_thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019/09/27
 client: Start Bootstrap
 category: Web Development
 description: 기업 홈페이지 디자인 / 펜션 솔루션 웹·앱 디자인

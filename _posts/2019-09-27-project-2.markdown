@@ -3,11 +3,11 @@ title: 팀 프로젝트
 subtitle: 팀 프로젝트 작업물입니다.
 layout: default
 modal-id: 2
-date: 2019-09-27
+date: 2019-10-10
 img: escape.png
 thumbnail: teamProject_thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019/09/27
 client: Start Bootstrap
 category: Web Development
 description: 영화 리뷰 사이트를 주제로 한 팀 프로젝트 작업물입니다. 디자인 및 프론트엔드 부분을 맡았습니다.
