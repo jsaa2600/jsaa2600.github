@@ -1,6 +1,6 @@
 ---
 title: FLA.WE
-subtitle: JAVA Web Enjinieoling
+subtitle: JAVA Web engineering
 layout: default
 modal-id: 3
 date: 2019-10-10
