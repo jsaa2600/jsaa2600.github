@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2019-10-10
-img: 모바일펜션1.png
-thumbnail: webdesign.png
+img: webDesign.png
+thumbnail: webDesign_thumbnail.png
 alt: image-alt
 update: 2019/10/10
 technology: Start Bootstrap
