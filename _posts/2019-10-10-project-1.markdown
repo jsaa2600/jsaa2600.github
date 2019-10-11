@@ -8,7 +8,7 @@ img: webDesign.png
 thumbnail: webDesign_thumbnail.png
 alt: image-alt
 update: 2019/10/10
-technology: Start Bootstrap
+technology: Adobe Photoshop
 demo: 네이버 블로그
 code: 
 link1: https://blog.naver.com/js_aa26

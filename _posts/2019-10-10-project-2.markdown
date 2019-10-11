@@ -8,7 +8,7 @@ img: popcornbox.png
 thumbnail: teamProject_thumbnail.png
 alt: image-alt
 update: 2019/10/10
-technology: Start Bootstrap
+technology: Spring Framework, Oracle 11g myBatis, Ajax / 웹표준(HTML, CSS, JavaScript), jQuery, Bootstrap, FontAwesome Library / GitHub, openAPI, Lombok Library
 demo: 유튜브 동영상
 code: GitHub 페이지
 link1: https://youtu.be/-KGh9Wn933M
