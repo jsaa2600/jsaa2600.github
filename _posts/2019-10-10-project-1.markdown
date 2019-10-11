@@ -9,8 +9,10 @@ thumbnail: webDesign_thumbnail.png
 alt: image-alt
 project-date: 2019/09/27
 technology: Start Bootstrap
-demo: Web Development
+demo: 네이버 블로그
 code: 
+link1: https://blog.naver.com/js_aa26
+link2: 
 description: 기업 홈페이지 디자인 / 펜션 솔루션 웹·앱 디자인
 
 ---
