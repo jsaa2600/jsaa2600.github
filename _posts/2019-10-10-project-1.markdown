@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 / 펜션 솔루션 / 채팅
+title: 웹·앱 디자인
 subtitle: Website Design
 layout: default
 modal-id: 1
@@ -13,6 +13,6 @@ demo: 네이버 블로그
 code: 
 link1: https://blog.naver.com/js_aa26
 link2: 
-description: 기업 홈페이지 디자인 / 펜션 솔루션 웹·앱 디자인
+description: 기업 홈페이지 디자인 / 펜션 솔루션 웹·앱 디자인 / 채팅 앱 디자인 / 소셜 상세페이지 디자인
 
 ---
