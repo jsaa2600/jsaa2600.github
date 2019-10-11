@@ -9,8 +9,8 @@ thumbnail: java_thumbnail.png
 alt: image-alt
 project-date: 2019/09/27
 technology: JAVA / 웹표준(HTML, CSS, JavaScript), Bootstrap
-demo: Web Development
-code: FLA.WE 링크
+demo: 유튜브 동영상
+code: FLA.WE Git 페이지
 link1: https://youtu.be/wAlyzsQEhjM
 link2: https://youtu.be/-KGh9Wn933M
 description: FLA.WE라는 가상의 플라워 쇼핑몰 사이트를 작업했습니다. 현재 메인 페이지, 문의 게시판 등을 구현해놓았습니다.
