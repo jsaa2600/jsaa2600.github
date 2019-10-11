@@ -4,10 +4,10 @@ subtitle: Team Project
 layout: default
 modal-id: 2
 date: 2019-10-10
-img: escape.png
+img: popcornbox.png
 thumbnail: teamProject_thumbnail.png
 alt: image-alt
-project-date: 2019/09/27
+update: 2019/10/10
 technology: Start Bootstrap
 demo: 유튜브 동영상
 code: GitHub 페이지

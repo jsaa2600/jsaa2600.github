@@ -4,10 +4,10 @@ subtitle: JAVA Web engineering
 layout: default
 modal-id: 3
 date: 2019-10-10
-img: dreams.png
+img: flawe.png
 thumbnail: java_thumbnail.png
 alt: image-alt
-project-date: 2019/09/27
+update: 2019/10/10
 technology: JAVA / 웹표준(HTML, CSS, JavaScript), Bootstrap
 demo: 유튜브 동영상
 code: GitHub 페이지

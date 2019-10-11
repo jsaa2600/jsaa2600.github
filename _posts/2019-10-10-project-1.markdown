@@ -5,9 +5,9 @@ layout: default
 modal-id: 1
 date: 2019-10-10
 img: 모바일펜션1.png
-thumbnail: webDesign_thumbnail.png
+thumbnail: webdesign.png
 alt: image-alt
-project-date: 2019/09/27
+update: 2019/10/10
 technology: Start Bootstrap
 demo: 네이버 블로그
 code: 
